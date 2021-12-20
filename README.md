@@ -1,18 +1,8 @@
 # Real Estate: Predicting House Prices
 Supervised Machine Learning project to predict house prices for King County, USA.
-### Members
+### Contributors:
+ **Asmaa Ahmed, Chayda Adora, Leonardo Aleixo, Saber Chowdhury, Xiao Wang** 
  
-**Asmaa Ahmed** 
-
-**Chayda Adora** 
-
-**Leonardo Aleixo** 
-
-**Saber Chowdhury** 
-
-**Xiao Wang** 
- 
-
 ## Overview of Project
  
 This project’s objective is to analyze the housing market sector in King County, USA between May 2014 and May 2015 and create a machine learning model which is able to predict prices and visualizations to provide insights on house sales.
